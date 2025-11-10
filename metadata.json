@@ -1,0 +1,8 @@
+{
+  "name": "Agora Streaming & Video Call",
+  "description": "A modern web application for live streaming and 1-on-1 video calls, powered by React and Agora. Users can browse and join active livestreams, or start their own broadcast. The app also features a direct video calling functionality for private conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
